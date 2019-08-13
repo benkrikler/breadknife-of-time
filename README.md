@@ -6,6 +6,11 @@ Now we take this tool, and slice the loaf along the direction we were stacking t
 we get a slice of what was seen in the same location, but at different moments.
 This tool is basically a breadknife for time.
 
+## Endorsements
+"Hopefully I'm not overselling this project with that name" -- Ben Krikler
+
+"[It's] the best thing since sliced time" -- Sionni Summers
+
 
 ## Installing
 ```
