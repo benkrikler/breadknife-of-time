@@ -13,3 +13,11 @@ git clone https://github.com/benkrikler/breadknife-of-time.git
 cd breadknife-of-time
 pip install -r requirements.txt
 ```
+
+## Usage
+Use the `--help` option to get up to date built-in help.
+
+An example command for you:
+```bash
+ ./breadknife.py -s centre -o my_slit_scan.jpg input_film.mp4 -p 1
+```
