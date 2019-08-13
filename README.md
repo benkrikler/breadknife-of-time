@@ -9,7 +9,7 @@ This tool is basically a breadknife for time.
 ## Endorsements
 "Hopefully I'm not overselling this project with that name" -- Ben Krikler
 
-"[It's] the best thing since sliced time" -- Sionni Summers
+"[It's] the best thing since sliced time" -- Sioni Summers
 
 
 ## Installing
